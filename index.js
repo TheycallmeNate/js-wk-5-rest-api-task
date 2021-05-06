@@ -19,4 +19,6 @@ app.post("/posts", (req, res) => {
   return res.status(201).json({ message: "new post created" });
 });
 
+app.get("/posts", (req, res) => res.status(200).json({ posts }));
+
 app.listen(3000, () => console.log("Server is up and running."));
