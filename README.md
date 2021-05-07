@@ -1,6 +1,4 @@
-# JavaScript Week 5
-
-## Introduction to REST API Assessment
+# JavaScript Week 5 Rest API Task
 
 Following the steps in the last topic (Introduction to REST API),
 
